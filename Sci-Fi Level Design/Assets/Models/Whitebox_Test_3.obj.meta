@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: e8571a7632a988a45b079f7951c3a060
-timeCreated: 1516829627
+guid: 986856db6dc1f3246b24e025d10bc56a
+timeCreated: 1516847695
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -14,7 +14,7 @@ ModelImporter:
     100012: Ramen
     100014: Stair_Case
     100016: Store
-    100018: Wall_Alley
+    100018: Wall_Alley1
     100020: Wall_Garbage
     100022: //RootNode
     400000: Apartment
@@ -26,7 +26,7 @@ ModelImporter:
     400012: Ramen
     400014: Stair_Case
     400016: Store
-    400018: Wall_Alley
+    400018: Wall_Alley1
     400020: Wall_Garbage
     400022: //RootNode
     2300000: Apartment
@@ -38,7 +38,7 @@ ModelImporter:
     2300012: Ramen
     2300014: Stair_Case
     2300016: Store
-    2300018: Wall_Alley
+    2300018: Wall_Alley1
     2300020: Wall_Garbage
     3300000: Apartment
     3300002: Cantina
@@ -49,7 +49,7 @@ ModelImporter:
     3300012: Ramen
     3300014: Stair_Case
     3300016: Store
-    3300018: Wall_Alley
+    3300018: Wall_Alley1
     3300020: Wall_Garbage
     4300000: Apartment
     4300002: Cantina
@@ -60,7 +60,7 @@ ModelImporter:
     4300012: Ramen
     4300014: Stair_Case
     4300016: Store
-    4300018: Wall_Alley
+    4300018: Wall_Alley1
     4300020: Wall_Garbage
   materials:
     importMaterials: 1
